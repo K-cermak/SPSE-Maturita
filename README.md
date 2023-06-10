@@ -11,7 +11,10 @@
 
 ### Jak je repozitář strukturovaný?
 - Všeobecné informace o maturitě jsou v tomto souboru.
-- Každý předmět má svou složku, kde jsou vyřešené otázky a podrobnější informace jak zkouška probíhá.
+- Informace ke slohům jsou v souboru [`FaQ\SLOHY.md`](FaQ/SLOHY.md).
+- Informace k didaktickým testům jsou v souboru [`FaQ\DIDAKTICKE.md`](FaQ/DIDAKTICKE.md).
+- Informace k ústním jsou v souboru [`FaQ\USTNI.md`](FaQ/USTNI.md).
+- Každý předmět má svou složku, kde jsou vyřešené otázky a podrobnější informace jak konkrétně zkouška probíhá.
 - Informace k Maturitnímu Projektu je v souboru [`FaQ\MP.md`](FaQ/MP.md).
 - Informace o výběru Vysoké Školy je v souboru [`FaQ\VŠ.md`](FaQ/VŠ.md).
 
@@ -46,7 +49,9 @@
 - Ústní zkouška je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajovu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu.
 - Na to, abyste maturitu udělali, musítě splnit všechny zkoušky. Pokud například neuděláte sloh z ČJ, k ústním i didaktickým testům sice jdete, ale maturitu neuděláte a tedy sloh budete muset psát znovu v září. Pokud ale například nedáte ústní z ČJ a sloh ano, opakujete v září jen tu zkoušku, kterou jste neudělali (takže jen ústní, sloh už ne).
 - Pokud nedokončite 4. ročník (máte z něčeho N nebo 5), tak k maturitě nejdete (až na slohy) a šanci máte jít až v září.
-- Všemu se detailně věnuji v dalších sekcích - viz další.
+- Detailní informace ke slohům jsou v souboru [`FaQ\SLOHY.md`](FaQ/SLOHY.md).
+- Detailní informace k didaktickým testům jsou v souboru [`FaQ\DIDAKTICKE.md`](FaQ/DIDAKTICKE.md).
+- Detailní informace k ústním jsou v souboru [`FaQ\USTNI.md`](FaQ/USTNI.md).
 
 <br>
 

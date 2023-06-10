@@ -1,6 +1,5 @@
 # 🎓🎓 SPŠE - maturita 🎓🎓
 
-## Co tento repozitář obsahuje?
 - ### Vyřešené maturitní otázky pro obor IT na SPŠE Pardubice.
 - ### Materiály pro maturitu z HW, PS, WA, ČJ, AJ a MA.
 - ### Všeobecné informace ke zkouškám, jak probíhají a nějaké tipy na výběr MP a VŠ.

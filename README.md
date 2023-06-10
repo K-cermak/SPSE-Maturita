@@ -15,19 +15,29 @@
 - Informace k Maturitnímu Projektu je v souboru [`FaQ\MP.md`](FaQ/MP.md).
 - Informace o výběru Vysoké Školy je v souboru [`FaQ\VŠ.md`](FaQ/VŠ.md).
 
+<br>
+
 ### Z jakého roku jsou otázky?
 - Otázky jsou z maturit roku 2023.
+
+<br>
 
 ### Proč jsi tento repozitář vytvořil?
 - Chci dalším ročníkům předat své zkušenosti a pomoci jim s přípravou na maturitu.
 - Přišlo mi, že škola nám neposkytla nějaké celistvé informace o maturitě a spíše jsem informace získával od ostatních až během zkoušek..
 
+<br>
+
 ### Jsou otázky vyřešené správně? Co když najdu chybu?
 - Řekl bych, že otázky jsou vyřešené velmi kvalitně. Bral jsem dost informací z vyřešených materiálů z minulých let, materiály procházelo více lidí a prošly někola revizemi.
 - Přesto, pokud najdete nějakou chybu, neváhejte mně napsat na info@k-cermak.com a já rád chybu opravím.
 
+<br>
+
 ### Je maturita formalita?
 - Rozhodně je lepší se mírně strestovat a připravit se na ni a pak si říct, že to byla formalita, než se na to vykašlat..
+
+<br>
 
 ### Jak vlastně maturita funguje? Co to je sloh / didaktický test / ústní?
 - Maturita se skládá ze 3 částí - slohů, didaktických testů a ústních.
@@ -38,6 +48,7 @@
 - Pokud nedokončite 4. ročník (máte z něčeho N nebo 5), tak k maturitě nejdete (až na slohy) a šanci máte jít až v září.
 - Všemu se detailně věnuji v dalších sekcích - viz další.
 
+<br>
 
 ### Mám jít povinně na matiku nebo na angličtinu?
 - Mezi povinnými předměty si můžete zvolit, zda chcete jít na matiku a nebo na angličtinu.
@@ -47,12 +58,18 @@
 - Pokud jste dobří v matice (řekněme máme jedničky / dvojky), přípravujete se ještě například na SCIO testy z matiky, tak doporučuji spíše zkusit 1 / 2 testy a pokud budete mít slušný výsledek, tak se na angličtinu vykašlat a jít na matiku. Sice i když je angličtina jednoduchá, je to zbytečný stres o svaťáku navíc.
 - Pokud si ale u matiky nevěříte, jste průměrní či podprůměrní a nechcete riskovat, tak doporučuji jít na angličtinu. Je to sice větší opruz, ale je to jednodušší a uděláte to.
 
+<br>
+
 ### Máš ještě nějaké další materiály od starších ročníků?
 - Nějaké materiály jsou k dispozici tady (ty jsou ale už dost staré): https://uloz.to/file/G8DS9hD5F0U6/formalita-rar.
 - Ještě jsem pak měl nějaké materiály z minulého roku, ale byly v nich nějaké menší nepřesnosti, navíc nemám od dotyčného svolení je sdílet, takže proto je zde nebudu uvádět.  
 
+<br>
+
 ### Proč máš vše ve Wordu a ne třeba v Notionu?
 - Word mi přišel na delší dokumenty lepší než Notion, navíc je to takový standard (i protože přesně vím, jak se to vytiskne).
+
+<br>
 
 ### Můžu ti přispět? ❤️❤️❤️
 

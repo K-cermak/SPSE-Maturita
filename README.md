@@ -8,7 +8,6 @@
 
 ---
 ## BASIC FAQ 
----
 
 ### Jak je repozitář strukturovaný?
 - Všeobecné informace o maturitě jsou v tomto souboru.

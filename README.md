@@ -1,8 +1,10 @@
 # 🎓🎓 SPŠE - maturita 🎓🎓
 
+## Co tento repozitář obsahuje?
+
 - ### Vyřešené maturitní otázky pro obor IT na SPŠE Pardubice.
-- ### Obsahuje materiály pro HW, PS, WA, ČJ, AJ a MA.
-- ### Taktéž obsahuje všeobecné informace ke zkouškám, jak probíhají a nějaké tipy na výběr MP a VŠ.
+- ### Materiály pro maturitu z HW, PS, WA, ČJ, AJ a MA.
+- ### Všeobecné informace ke zkouškám, jak probíhají a nějaké tipy na výběr MP a VŠ.
 
 <br><br>
 
@@ -71,13 +73,11 @@
 
     - **ETH:** 0x29Ca9054B2241aB39010a1434fb50e504EE10871
     <br>
-    <br>
     <img src="images/Ethereum_QR.png" width="150" title="BTC">
     <br>
     <br>
 
     - **LTC:** ltc1qxpgp3jc5jyem6096n48w48qqrwsrnj5eq9j890
-    <br>
     <br>
     <img src="images/Litecoin_QR.png" width="150" title="BTC">
     <br>
@@ -85,14 +85,12 @@
 
     - **ADA:** addr1q8c89cet02nyql4ygj96s0cz5ntusgzxfzuykfngmaf0zt2ftj7wrayqm7dx52et7k7tkjjl2edan0wykww6q4twn79shzx8vn
     <br>
-    <br>
     <img src="images/Cardano_QR.png" width="150" title="BTC">
     <br>
     <br>
     
     
     - **DOGE:** DCYFq9hPcVJkYKAgttkRXNSAkfbjEmLGdo
-    <br>
     <br>
     <img src="images/Dogecoin_QR.png" width="150" title="BTC">
     <br>

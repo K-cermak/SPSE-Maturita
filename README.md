@@ -37,6 +37,12 @@
 
 <br>
 
+### Jak si materiály stáhnout?
+- Pokud jsi nepracoval ještě s GitHubem, tak buď můžeš proklikávat všechny složky a v levém menu vidíš všechny soubory. Při rozkliknutí je pak můžeš stáhnout.
+- Popřípadě můžeš kliknout na zelené tlačítko `Code` výše a stáhnotu vše jako ZIP.
+
+<br>
+
 ### Je maturita formalita?
 - Rozhodně je lepší se mírně strestovat a připravit se na ni a pak si říct, že to byla formalita, než se na to vykašlat..
 
@@ -73,6 +79,12 @@
 
 ### Proč máš vše ve Wordu a ne třeba v Notionu?
 - Word mi přišel na delší dokumenty lepší než Notion, navíc je to takový standard (i protože přesně vím, jak se to vytiskne).
+
+<br>
+
+
+### Můžu udělat Pull request?
+- Jestli přijdu na to, jak to přijmout, why not, ale radši mi spíš napiš na e-mail info@k-cermak.com.
 
 <br>
 

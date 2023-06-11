@@ -1,5 +1,6 @@
 # Hardware
 
+### Všeobecné informace o ústních zkouškách můžeš nalézt [zde](../FaQ/USTNI.md).
 
 ### Jak probíhá výběr otázky a přípravy?
 - Nejprve vstup do učebny. Neťukej, jen se posaď na krajní židle (jsou vedle dveří) a počkej než tě učitel (nejspíše třídní) vyzve (většinou na tebe pokývne), ať si jdeš vylosovat otázku. Vhodné je do třídy dorazit 2-3 minuty před začátkem přípravy.

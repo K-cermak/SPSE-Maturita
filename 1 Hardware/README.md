@@ -2,7 +2,7 @@
 
 ### Všeobecné informace o ústních zkouškách můžeš nalézt [zde](../FaQ/USTNI.md).
 
-### Jak probíhá výběr otázky a přípravy?
+### Jak probíhá výběr otázky a příprava?
 - Nejprve vstup do učebny. Neťukej, jen se posaď na krajní židle (jsou vedle dveří) a počkej než tě učitel (nejspíše třídní) vyzve (většinou na tebe pokývne), ať si jdeš vylosovat otázku. Vhodné je do třídy dorazit 2-3 minuty před začátkem přípravy.
 - Pro otázku jdi vždy zásadne předem (to znamená kolem tabule). Nechoď za učitelské stoly, učitelé to nemají rádi (ani když jsi první v daný den a je tam ještě volno).
 - Po vylosování žetonu dostaneš papír se všemi otázkami. Nyní máš 15 minut na přípravu. Běž k volné polovině tabule a nejprve nadepiš číslo otázky, jméno otázky (například Bezdrátové sítě) a svoje jméno.
@@ -14,7 +14,6 @@
 <br>
 
 ### Jak probíhá samotná zkouška?
-
 - Po 15 minutách přípravy začíná samotná zkouška. Ta trvá nejvíce 15 minut.
 - Snaž se mluvit co nejvíce sám. Snaž se mluvit o tom, co jsi napsal na tabuli a vysvětlovat to. Pokud nebudeš mluvit nesmysly, učitel tě nechá mluvit a nebude ti do toho zasahovat.
 - Učitel tě může přerušit a doptat se tě na nějaké informace - i pokud něco nevíš, snaž se všechno odkývávat a vypadat, že tomu přesně rozumíš.
@@ -23,7 +22,6 @@
 <br>
 
 ### Dostanu HW nebo PS?
-
 - Prvních 18 otázek (1-18) je z Hardware.
 - Dalších 12 otázek (19-30) je z Sítí.
 

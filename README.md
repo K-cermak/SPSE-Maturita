@@ -14,7 +14,7 @@
 - Informace ke slohům jsou v souboru [`FaQ\SLOHY.md`](FaQ/SLOHY.md).
 - Informace k didaktickým testům jsou v souboru [`FaQ\DIDAKTICKE.md`](FaQ/DIDAKTICKE.md).
 - Informace k ústním jsou v souboru [`FaQ\USTNI.md`](FaQ/USTNI.md).
-- Každý předmět má svou složku, kde jsou vyřešené otázky a podrobnější informace jak konkrétně zkouška probíhá.
+- Každý předmět má svou složku, kde jsou vyřešené otázky a podrobnější informace o průběhu zkoušky.
 - Informace k Maturitnímu Projektu je v souboru [`FaQ\MP.md`](FaQ/MP.md).
 - Informace o výběru Vysoké Školy je v souboru [`FaQ\VŠ.md`](FaQ/VŠ.md).
 

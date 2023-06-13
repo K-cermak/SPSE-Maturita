@@ -82,6 +82,10 @@
 
 <br>
 
+### Máš nějaké další repozitáře s materiály do školy?
+- Některé materiály k nematuritním předmětům: https://github.com/K-cermak/SPSE-Nematuritni-Predmety.
+
+<br>
 
 ### Můžu udělat Pull request?
 - Jestli přijdu na to, jak to přijmout, why not, ale radši mi spíš napiš na e-mail info@k-cermak.com.

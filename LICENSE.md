@@ -1,3 +1,5 @@
+# Licence
+
 - **Autor:**
     - Karel Čermák, info@k-cermak.com.
 

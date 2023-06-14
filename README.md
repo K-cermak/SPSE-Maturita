@@ -2,7 +2,7 @@
 
 - ### Vyřešené maturitní otázky pro obor IT na SPŠE Pardubice.
 - ### Materiály pro maturitu z HW, PS, WA, ČJ, AJ a MA.
-- ### Všeobecné informace ke zkouškám, jak probíhají a nějaké tipy na výběr MP a VŠ.
+- ### Všeobecné informace o zkouškách, jak probíhají a nějaké tipy na výběr MP a VŠ.
 
 <br>
 
@@ -15,8 +15,8 @@
 - Informace k didaktickým testům jsou v souboru [`FaQ\DIDAKTICKE.md`](FaQ/DIDAKTICKE.md).
 - Informace k ústním jsou v souboru [`FaQ\USTNI.md`](FaQ/USTNI.md).
 - Každý předmět má svou složku, kde jsou vyřešené otázky a podrobnější informace o průběhu zkoušky.
-- Informace k Maturitnímu Projektu je v souboru [`FaQ\MP.md`](FaQ/MP.md).
-- Informace o výběru Vysoké Školy je v souboru [`FaQ\VŠ.md`](FaQ/VŠ.md).
+- Informace k Maturitnímu Projektu jsou v souboru [`FaQ\MP.md`](FaQ/MP.md).
+- Informace o výběru Vysoké Školy jsou v souboru [`FaQ\VŠ.md`](FaQ/VŠ.md).
 
 <br>
 
@@ -27,12 +27,12 @@
 
 ### Proč jsi tento repozitář vytvořil?
 - Chci dalším ročníkům předat své zkušenosti a pomoci jim s přípravou na maturitu.
-- Přišlo mi, že škola nám neposkytla nějaké celistvé informace o maturitě a spíše jsem informace získával od ostatních až během zkoušek..
+- Přišlo mi, že nám škola neposkytla nějaké celistvé informace o maturitě a spíše jsem informace získával od ostatních až během zkoušek..
 
 <br>
 
 ### Jsou otázky vyřešené správně? Co když najdu chybu?
-- Řekl bych, že otázky jsou vyřešené velmi kvalitně. Bral jsem dost informací z vyřešených materiálů z minulých let, materiály procházelo více lidí a prošly někola revizemi.
+- Řekl bych, že otázky jsou vyřešené velmi kvalitně. Bral jsem dost informací z vyřešených materiálů z minulých let, materiály procházelo více lidí a prošly několika revizemi.
 - Přesto, pokud najdeš nějakou chybu, neváhejte mně napsat na info@k-cermak.com a já rád chybu opravím.
 
 <br>
@@ -76,7 +76,7 @@
 
 ### Máš ještě nějaké další materiály od starších ročníků?
 - Nějaké materiály jsou k dispozici tady (ty jsou ale už dost staré): https://uloz.to/file/G8DS9hD5F0U6/formalita-rar.
-- Ještě jsem pak měl nějaké materiály z minulého roku, ale byly v nich nějaké menší nepřesnosti, navíc nemám od dotyčného svolení je sdílet, takže proto je zde nebudu uvádět.  
+- Ještě jsem pak měl nějaké materiály z minulého roku, ale byly v nich nějaké menší nepřesnosti, navíc nemám od dotyčného svolení je sdílet, takže proto je zde uvádět nebudu.  
 
 <br>
 

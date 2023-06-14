@@ -60,7 +60,6 @@
 - U matiky ještě kalkulačku (seznam povolených je [zde](../images/kalkulacky_maturita.jpg) - nesmí umět řešit rovnice apod., pokud není vaše kalkulačka na seznamu, řekněte učiteli matematiky či napište VEN a pošlete mu manuál, kalkulačky se ale vždy před zkouškou kontrolují, takže na tohle je nutné myslet včas). Dále si ke zkoušce můžete vzít rýsovací pomůcky (ty ale u normální matematiky spíše nevyužijete) a tabulky (ty fakt doporučuji).
 - Pokud chcete, můžete si vzít i analogové hodinky a dát si je vedle sebe na lavici, pokud se nechcete spoléhat jen na hodiny v účebně (víme jak občas fungují..).
 
-
 <br>
 
 ### Jak se na didaktické testy připravit?

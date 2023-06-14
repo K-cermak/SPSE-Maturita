@@ -15,16 +15,16 @@
 
 <br>
 
-- Ukončení pak probíhá po oznámení posledních výsledků (ve čtvrtek / v pátek). Zase celá třída nastoupí, třídní řekne nějaký proslov, pak někdo z vedení a nakonec předsedkyně. Pokud máte normálního třídního předsedu, je dobré, aby řekl něco on.
-- Nakonec je opět vhodné dát všem učitelkám kytku, učitelům nějakou flašku (záleží jaký máte budget, Božkov bych spíš nedával) a předsedovi třeba nějaký perník či něco s motivem Pardubic. Pokud je před předseda z Pardubic, pak postačí třeba čokoláda, dárkové balení oříšků či něco takového.
+- Ukončení pak probíhá po oznámení posledních výsledků (ve čtvrtek / v pátek). Zase celá třída nastoupí, třídní řekne nějaký proslov, pak někdo z vedení a nakonec předsedkyně. Pokud máte normálního třídního předsedu, je dobré, aby řekl i nějaký proslov on.
+- Nakonec je opět vhodné dát všem učitelkám kytku, učitelům možná nějakou flašku (záleží jaký máte budget, Božkov bych spíš nedával) a předsedovi třeba nějaký perník či něco s motivem Pardubic. Pokud je před předseda z Pardubic, pak postačí třeba čokoláda, dárkové balení oříšků či něco takového.
 
 <br>
 
 ### Kdy se dozvím výsledky?
 - Po dozkoušení všech lidí mají učitelé krátkou poradu (max. 15 minut), následně nastoupíte v pořadí v jakém jste maturovali k tabuli.
-- Předsedkyně přečte vaše jméno, vy uděláte krok dopředu a následně přečte vaše hodnocení. Dozvíte se také hodnocení slohů.
+- Předsedkyně přečte tvoje jméno, ty uděláš krok dopředu a následně přečte tvoje hodnocení. Dozvíš se také hodnocení slohů.
 - Pokud daný člověk prospěl, je vhodné mu zatleskat. Pokud ne, tleskat není úplně vhodné.
-- Následně uděláte krok dozadu zpět do řady a přečtou se výsledky dalšího.
+- Následně uděláš krok dozadu zpět do řady a přečtou se výsledky dalšího.
 
 <br>
 
@@ -35,11 +35,11 @@
 <br>
 
 ### Kdo u ústní maturity je?
-- Zkoušející - ten hlavní co tě zkouší (například JEL).
-- Přísedící - ten vedle zkoušejícího, může se tě taky ptát (například PRI).
-- Předseda - učitel z jiné školy, měl by dohlížet na objektivnost zkoušek.
-- Místopředseda - učitel ze školy, většinou někdo, kdo vás neučil (například KVA / BAT / BOU..).
-- Třídní - může být zároveň i zkoušející (například minulý rok JEL byl ve svojí třídě na HW, my jsme měli BAJ na WA).
+- **Zkoušející** - ten hlavní co tě zkouší (například JEL).
+- **Přísedící** - ten vedle zkoušejícího, může se tě taky ptát (například PRI).
+- **Předseda** - učitel z jiné školy, měl by dohlížet na objektivnost zkoušek.
+- **Místopředseda** - učitel ze školy, většinou někdo, kdo vás neučil nebo tolik nezná (například KVA / BAT / BOU apod.).
+- **Třídní** - může být zároveň i zkoušející (například minulý rok JEL byl ve svojí třídě na HW, my jsme měli BAJ na WA).
 
 <br>
 
@@ -50,16 +50,16 @@
 <br>
 
 ## Kolik časů je u ústních na přípravu, jak dlouho trvá ústní zkošuak?
-- Standardně 15 minut u PS / HW, 20 minut u AJ a ČJ a 30 minut u WA (tam ale musíte udělat zadání).
+- Standardně 15 minut u PS / HW, 20 minut u AJ a ČJ a 30 minut u WA (tam ale musíš udělat praktickou část).
 - Zkouška pak probíhá nejvíce 15 minut.
 
 <br>
 
-## Můžou Vás pustit ze zkoušky dřív?
+## Můžou mě pustit ze zkoušky dřív?
 - U HW / PS bych s tím nepočítal.
 - U AJ / ČJ maximálně o pár minut.
-- U WA pokud máte jednoduchou otázku a nemají se Vás na co ptát, tak mě například pustili po 5 minutách.
-- Většinou pokud Vás pustí nějak významně dřív, tak to znamená, že Vám dají nejspíše za 1 (v žádném případě Vás nemůžou po 5 minutách pustit / vyhodit a dát vám za 5). 
+- U WA pokud máš jednoduchou otázku a nemají se tě na co ptát, tak mě například pustili po 5 minutách.
+- Většinou pokud tě pustí nějak významně dřív, tak to znamená, že ti dají nejspíše za 1 (v žádném případě tě nemůžou po 5 minutách pustit / vyhodit a dát ti za 5). 
 
 <br>
 
@@ -69,20 +69,20 @@
 <br>
 
 ### Jak oslovovat komisi?
-- I když je to cringe (Libor snad odpustí ;) ), je vhodné VŽDY zahájit zkoušku spojením *Vážená maturitní komise, vylosoval jsem si otázku číslo XX...* a následně začít mluvit.
+- I když je to cringe (Libor snad opět odpustí ;) ), je vhodné VŽDY zahájit zkoušku spojením *Vážená maturitní komise, vylosoval jsem si otázku číslo XX...* a následně začít mluvit.
 
 <br>
 
 ### V jaké místnosti probíhají zkoušky? Je nějaká odpočinková místnost?
-- Zkoušky probíhají většinou ve vaši třídní účebně, popřípadě v nějaké vedlejší, předem se to určitě dozvíte.
-- Každá třída má taktéž k dispozici vlastní odpočinkovou místnost, kam učitelé nevstupují. Tam si můžete odpočinout, nechat věci, vidíte tam taky rozpis. Během dne taktéž dostanete Dukátky, můžete si skočit do kantýny či do Penny..
+- Zkoušky probíhají většinou ve vaší třídní účebně, popřípadě v nějaké vedlejší, předem se to určitě dozvíte.
+- Každá třída má taktéž k dispozici vlastní odpočinkovou místnost, kam učitelé nechodí. Tam si můžete odpočinout, nechat věci, vidíte tam taky rozpis. Během dne taktéž dostanete dukátky, můžete si skočit do kantýny či do Penny..
 
 <br>
 
 ### Máme učitelům přinést nějaké jídlo?
 - Je vhodné, abyste učitelům přinesli něco k jídlu - domluvte se v dané skupince, co daný den maturuje a alespoň něco přineste - kupte třeba pár chlebíčku a k tomu třeba někdo upečte buchtu.
-- Jídlo se pak dává do odpočinkové místnosti pro učitele - odchytněte ráno nějakého učitele a řekněte mu, jestli můžete dát jídlo do místnosti. Tam to jenom dejte, učitelé si to už vzájemně srovnají.
-- Rozhodně nedávejte jídlo do zkušební místnosti, myslím, že je to zakázané. Taky si pamatujte, že místnost pro učitele je určena pro všechny učitele, ne jen ty, které máte u zkoušek, takže moc neovlivníte, aby zrovna vaše chlebíčky měl jen JEL...
+- Jídlo se pak dává do odpočinkové místnosti pro učitele - odchytněte ráno nějakého učitele od vás a řekněte mu, jestli můžete dát jídlo do místnosti. Tam to jenom dejte, učitelé si to už pak srovnají.
+- Rozhodně nedávejte jídlo do zkušební místnosti, myslím, že je to od vedení dokonce zakázané. Taky si pamatujte, že místnost pro učitele je určena pro všechny učitele, ne jen pro ty, které máte u zkoušek, takže moc neovlivníte, aby zrovna vaše chlebíčky měl jen JEL...
 
 <br>
 

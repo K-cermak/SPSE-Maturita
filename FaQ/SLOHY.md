@@ -72,3 +72,8 @@
 ### Co když se odkloním od tématu? Co když nedodržím styl?
 - Toto je dobré si fakt ohlídat a dávat si na to pozor (například, kdybys měl úvahu o tom, jak umělou inteligenci lze využít ve školství a ty budeš psát o tom, jak se umělá inteligence učí, tak i když se to nezdá, je to odklon od tématu a i když zbytek slohu bude dobrý, je dost velká šance, že to neuděláš..).
 - U stylu se zaměř na jeho vlastnosti, pokud například napíšeš vyprávění a nebude tam zápletka (či bude velmi povrchní), je to už dějový popis a už to taky nemusíš udělat.
+
+<br>
+
+### Musím mít během didaktických testů oblek?
+- Ne, ani většina učitelů ho nemá.

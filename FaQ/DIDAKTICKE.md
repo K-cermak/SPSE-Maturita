@@ -74,6 +74,11 @@
 
 <br>
 
+### Musím mít během didaktických testů oblek?
+- Ne, ani většina učitelů ho nemá (minule ho měl jen Petera).
+
+<br>
+
 ### Mám jít povinně na matiku nebo na angličtinu?
 - Mezi povinnými předměty si můžeš zvolit, zda chceš jít na matiku a nebo na angličtinu.
 - U matiky máš výhodu, že děláš jen jednu zkoušku - didaktický test - takže žádnou ústní zkoušku a logicky ani sloh.

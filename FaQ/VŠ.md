@@ -9,7 +9,7 @@
 ### Co to je Gaudeamus? Mám na něj jet?
 - Gaudeasmus je veletrh vysokých škol. Pokud ještě nemáš totálně jasno, doporučuji se na něj se spolužáky vydat.
 - Gaudeasmus probíhá v Brně a Praze. V Brně probíhal v říjnu, v Praze až v lednu (což je poměrně pozdě). Většinou trvá celý týden.
-- Na Gaudeamu se především můžeš setkat se studenty škol a zeptat se jich na to, co tě zajímá. Je už třeba dobré mít přehled o tom, co chci studovat (jestli IT a nebo mně to třeba láká víc do elektra) a nebát se zeptat. Je dobré se i zkusit zeptat na porovnání školy s jinou (například studenta VUT na porovnání s ČVUT).
+- Na Gaudeamu se především můžeš setkat se studenty škol a zeptat se jich na to, co tě zajímá. Je už třeba dobré mít přehled o tom, co chci studovat (jestli IT a nebo mě to třeba láká víc do elektra) a nebát se zeptat. Je dobré se i zkusit zeptat na porovnání školy s jinou (například studenta VUT na porovnání s ČVUT).
 - Menší tip - pokud půjdeš k výstavišti a bude tam obrovská fronta, že ani není vidět na pokladny, může se stát, že to je fronta pouze k jedné pokladně. Když to předběhneš, můžeš se pak zařadit do jiné fronty, která je k jiné pokladně a zpravidla je 20x menší a ušetřit si tak hodinu času.
 
 <br>

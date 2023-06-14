@@ -14,7 +14,7 @@
 
 <br>
 
-- Hodně záleží, jak k předmětu budeš přistupovat. Já jsem třeba bral to, že si fakt intenzivně zopakuji matematiku a připraví mně to přesně na maturitu, což mně bohužel až tak nepřišlo. Pokud to budeš brát tak, že tam budeš chodit, abys sis matematiku osvěžil, možná ti to bude vyhovovat. Samozřejmě je taky rozdíl například mezi přístupem VEN a KVA..
+- Hodně záleží, jak k předmětu budeš přistupovat. Já jsem třeba bral to, že si fakt intenzivně zopakuji matematiku a připraví mě to přesně na maturitu, což mně bohužel až tak nepřišlo. Pokud to budeš brát tak, že tam budeš chodit, abys sis matematiku osvěžil, možná ti to bude vyhovovat. Samozřejmě je taky rozdíl například mezi přístupem VEN a KVA..
 - Určitě ale počítej s tím, že na cvikách budeš psát klasické písemky, určitě to není žádný kroužek, kam přijdeš jednou za měsíc a dostaneš free jedničku. Předmět ti zkrátka nějaký čas na přípravu zabere.
 
 <br>

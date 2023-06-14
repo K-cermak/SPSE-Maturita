@@ -43,7 +43,7 @@
 
 <br>
 
-### Kdo se mně bude ptát?
+### Kdo se mě bude ptát?
 - Hlavně se tě bude ptát zkoušející, popřípadě přísedící (například u HW / PS se tě ptá vyučující na daný předmět).
 - Ostatní členové se tě prakticky neptají, ale pokud například předseda rozumí danému předmětu, zeptat se tě může.
 
@@ -58,7 +58,7 @@
 ## Můžou Vás pustit ze zkoušky dřív?
 - U HW / PS bych s tím nepočítal.
 - U AJ / ČJ maximálně o pár minut.
-- U WA pokud máte jednoduchou otázku a nemají se Vás na co ptát, tak mně například pustili po 5 minutách.
+- U WA pokud máte jednoduchou otázku a nemají se Vás na co ptát, tak mě například pustili po 5 minutách.
 - Většinou pokud Vás pustí nějak významně dřív, tak to znamená, že Vám dají nejspíše za 1 (v žádném případě Vás nemůžou po 5 minutách pustit / vyhodit a dát vám za 5). 
 
 <br>

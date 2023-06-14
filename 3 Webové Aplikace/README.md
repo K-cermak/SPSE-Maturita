@@ -29,7 +29,7 @@
 - Během zkoušky bys měl hlavně rozebrat to, co jsi udělal. Nejprve se tě pravděpodobně bude ptát přísedící (zkoušející vysvětluje zadání tomu, co si teď losoval žeton).
 - Následně se tě začne ptát i zkoušející. Většinu času budou řešit tvůj napsaný kód, poté se případně budou ptát i na další otázky.
 - Během celého zkoušení můžeš používat Zeal. Pokud ti už na přípravě zbývá nějaký čas, může být dobré si otevřít více tabů v Zealu s tématy, na které se tě můžou ptát, ať to pak zbytečně nehledáš.
-- Pokud se v tématu orientuješ a je vidět, že vcelku všechno víš, je i dost velká šance, že tě pustí dřív (mně pustili po 5 minutách, protože jsem měl fakt strašně primitivní otázku a na všechno jsem +- odpověděl).
+- Pokud se v tématu orientuješ a je vidět, že vcelku všechno víš, je i dost velká šance, že tě pustí dřív (mě pustili po 5 minutách, protože jsem měl fakt strašně primitivní otázku a na všechno jsem +- odpověděl).
 
 <br>
 
@@ -51,11 +51,11 @@
 
 ### Je BAJ v pohodě?
 - No... Co se týče známkování, přišlo mi, že hodnotil dost mírně a tu 4 dal i tomu, kdo toho vyřešeného moc neměl.. Horší už jsou jeho otázky, snaží se dost slovíčkařit, ptá se strašně obecně a na dost specifické věci.
-- Mně se třeba ptal na rozdíl mezi DECIMAL a FLOAT či jak se liší MyISAM a InnoDB. Možná ale dobré řešení je mu na jeho otázky odpovědět taky obecně - například že rozdíl mezi DECIMAL a FLOAT je v tom, jak uchovávají svoji hodnotu, rozdíl mezi MyISAM a InnoDB je v tom, jak ukládají své data (bude mu to stačit a nemusíš to někde hledat nebo si vzpomínat na přesné rozdíly).  
+- Mě se třeba ptal na rozdíl mezi DECIMAL a FLOAT či jak se liší MyISAM a InnoDB. Možná ale dobré řešení je mu na jeho otázky odpovědět taky obecně - například že rozdíl mezi DECIMAL a FLOAT je v tom, jak uchovávají svoji hodnotu, rozdíl mezi MyISAM a InnoDB je v tom, jak ukládají své data (bude mu to stačit a nemusíš to někde hledat nebo si vzpomínat na přesné rozdíly).  
 
 <br>
 
 ### Jak jsou na tom ostatní učitelé (BAT / RES / KAS)?
-- BAT se mně fakt ptal na základní otázky a příšlo mi, že to směruje více do praktické stránky, ale zase je pravda, že naši třídu měl vcelku rád, netuším, jak to může být jinde, ale všeobecně bych řekl, že bude v pohodě.
+- BAT se mě fakt ptal na základní otázky a příšlo mi, že to směruje více do praktické stránky, ale zase je pravda, že naši třídu měl vcelku rád, netuším, jak to může být jinde, ale všeobecně bych řekl, že bude v pohodě.
 - RES tento rok u maturity (až na opakující) nikdo neměl, takže nedokážu posoudit.
 - KAS prý fakt hodně pomáhal u té praktické části, že prý z toho BAJ chytal mírně nervy, ale u zkoušky jsem nebyl, tohle mám z doslechu, takže přesně nevím..

@@ -85,6 +85,17 @@
 
 <br>
 
+### Co děláš na přípravě?
+- Během 20 minutové přípravy máš k dispozici úryvek z knížky, neumělecký text a otázky, na které bys měl odpovědět.
+- Je dobré si udělat nějak souhrné poznámky k jednotlivým podbodům a popřípadě k čemukoliv, co tě napadne, že chceš během zkoušky zmínit.
+
+<br>
+
+### Mám k dispozici papír či tužku na své poznámky?
+- Ano, v lavici je k dispozici papír a obyčejná tužka. Pokud nechceš psát poznámky tužkou, doporučuji si vzít vlastní propisku či fix (je dobré pro jistotu o tom říct učiteli). Papír po konci zkoušky odevzdáváš, během celé zkoušky ho ovšem používat můžeš.
+
+<br>
+
 ### Koho jsi měl u maturity?
 - Z češtiny jsem tam měl FOR (ta už na škole nejspíše neučí) a POS. Obě dvě byly dost v pohodě a upravdu byly nápomocné.
 - Co jsem slyšel, v druhé třídě měli HAN a JED a prý taky byly bez problému. BED prý taky šla, takže bych se nebál.

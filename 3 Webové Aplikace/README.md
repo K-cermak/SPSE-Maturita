@@ -34,7 +34,7 @@
 <br>
 
 ### Mám k dispozici papír či tužku na své poznámky?
-- Ano, v lavici je k dispozici papír a obyčejná tužka. Pokud nechceš psát poznámky tužkou, doporučuji si vzít vlastní propisku či fix (je dobré pro jistotu o tom říct učiteli). Papír po konci zkoušky odevzdáváš, během celé zkoušky ho můžeš ovšem používat.
+- Ano, v lavici je k dispozici papír a obyčejná tužka. Pokud nechceš psát poznámky tužkou, doporučuji si vzít vlastní propisku či fix (je dobré pro jistotu o tom říct učiteli). Papír po konci zkoušky odevzdáváš, během celé zkoušky ho ovšem používat můžeš.
 
 <br>
 

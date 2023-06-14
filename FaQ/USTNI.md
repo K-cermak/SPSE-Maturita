@@ -1,4 +1,4 @@
-# Ústní
+# Ústní zkoušky
 
 ### Kdy ústní probíhají?
 - Oficiálně je pro všechny střední školy vyhrazen termín 15 pracovních dnů (3 týdnů).

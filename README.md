@@ -33,13 +33,13 @@
 
 ### Jsou otázky vyřešené správně? Co když najdu chybu?
 - Řekl bych, že otázky jsou vyřešené velmi kvalitně. Bral jsem dost informací z vyřešených materiálů z minulých let, materiály procházelo více lidí a prošly někola revizemi.
-- Přesto, pokud najdete nějakou chybu, neváhejte mně napsat na info@k-cermak.com a já rád chybu opravím.
+- Přesto, pokud najdeš nějakou chybu, neváhejte mně napsat na info@k-cermak.com a já rád chybu opravím.
 
 <br>
 
 ### Jak si materiály stáhnout?
-- Pokud jsi nepracoval ještě s GitHubem, tak buď můžeš proklikávat všechny složky a v levém menu vidíš všechny soubory. Při rozkliknutí je pak můžeš stáhnout.
-- Popřípadě můžeš kliknout na zelené tlačítko `Code` výše a stáhnotu vše jako ZIP.
+- Pokud jsi nepracoval ještě nikdy s GitHubem, tak můžeš proklikávat všechny složky a v levém menu vidíš všechny soubory. Při rozkliknutí je pak můžeš stáhnout.
+- Popřípadě při kliknutí na zelené tlačítko `Code` nahoře můžeš vše stáhnout jako ZIP.
 
 <br>
 
@@ -49,12 +49,13 @@
 <br>
 
 ### Jak vlastně maturita funguje? Co to je sloh / didaktický test / ústní?
-- Maturita se skládá ze 3 částí - slohů, didaktických testů a ústních.
-- Sloh můžete psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
-- Didaktický test je celkem ze 2 předmětů - češtiny a pak matiky / angličtiny. Tento test dělá centrálně Cermat (takže ho píšou všichni maturanti ve stejnou chvíli a je na všech školách stejný). Píše  se na začátku května po uzavření klasifikace.
-- Ústní zkouška je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajovu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu.
+- Maturita se skládá ze 3 částí - **slohů, didaktických testů a ústních**.
+- **Sloh** můžete psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
+- **Didaktický test** je celkem ze 2 předmětů - češtiny a pak matiky / angličtiny. Tento test dělá centrálně Cermat (takže ho píšou všichni maturanti ve stejnou chvíli a je na všech školách stejný). Píše  se na začátku května po uzavření klasifikace.
+- **Ústní zkouška** je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajovu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu.
 - Na to, abyste maturitu udělali, musítě splnit všechny zkoušky. Pokud například neuděláte sloh z ČJ, k ústním i didaktickým testům sice jdete, ale maturitu neuděláte a tedy sloh budete muset psát znovu v září. Pokud ale například nedáte ústní z ČJ a sloh ano, opakujete v září jen tu zkoušku, kterou jste neudělali (takže jen ústní, sloh už ne).
 - Pokud nedokončite 4. ročník (máte z něčeho N nebo 5), tak k maturitě nejdete (až na slohy) a šanci máte jít až v září.
+<br>
 - Detailní informace ke slohům jsou v souboru [`FaQ\SLOHY.md`](FaQ/SLOHY.md).
 - Detailní informace k didaktickým testům jsou v souboru [`FaQ\DIDAKTICKE.md`](FaQ/DIDAKTICKE.md).
 - Detailní informace k ústním jsou v souboru [`FaQ\USTNI.md`](FaQ/USTNI.md).
@@ -63,11 +64,11 @@
 
 ### Mám jít povinně na matiku nebo na angličtinu?
 - Mezi povinnými předměty si můžete zvolit, zda chcete jít na matiku a nebo na angličtinu.
-- U matiky máte výhodu, že děláte jen jednu zkoušku - didaktický test - takže žádné ústní a logicky ani sloh.
-- Úspěšnost u matiky je ale o dost menší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
-- U matiky musítě didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela velká.
-- Pokud jste dobří v matice (řekněme máme jedničky / dvojky), přípravujete se ještě například na SCIO testy z matiky, tak doporučuji spíše zkusit 1 / 2 testy a pokud budete mít slušný výsledek, tak se na angličtinu vykašlat a jít na matiku. Sice i když je angličtina jednoduchá, je to zbytečný stres o svaťáku navíc.
-- Pokud si ale u matiky nevěříte, jste průměrní či podprůměrní a nechcete riskovat, tak doporučuji jít na angličtinu. Je to sice větší opruz, ale je to jednodušší a uděláte to.
+- U matiky máš výhodu, že děláš jen jednu zkoušku - didaktický test - takže žádnou ústní zkoušku a logicky ani sloh.
+- Úspěšnost u matiky je ale o dost nižší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
+- U matiky musíš didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela vysoká.
+- Pokud jsi dobrý v matematice (řekněme máš jedničky / dvojky), přípravuješ se ještě například na SCIO testy z matematiky, tak doporučuji spíše zkusit 1 / 2 testy z minulých let a pokud budeš mít slušný výsledek, tak se na angličtinu vykašlat a jít na matiku. Sice i když je angličtina jednoduchá, je to zbytečný stres o svaťáku navíc.
+- Pokud si ale u matiky nevěříš, jsi průměrný či podprůměrný a nechceš riskovat, tak doporučuji jít na angličtinu. Je to sice větší opruz, ale je to jednodušší a uděláš to.
 
 <br>
 

@@ -77,8 +77,8 @@
 
 ### Mám jít povinně na matiku nebo na angličtinu?
 - Mezi povinnými předměty si můžete zvolit, zda chcete jít na matiku a nebo na angličtinu.
-- U matiky máte výhodu, že děláte jen jednu zkoušku - didaktický test - takže žádné ústní a logicky ani sloh.
-- Úspěšnost u matiky je ale o dost menší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
-- U matiky musítě didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela velká.
-- Pokud jste dobří v matice (řekněme máme jedničky / dvojky), přípravujete se ještě například na SCIO testy z matiky, tak doporučuji spíše zkusit 1 / 2 testy a pokud budete mít slušný výsledek, tak se na angličtinu vykašlat a jít na matiku. Sice i když je angličtina jednoduchá, je to zbytečný stres o svaťáku navíc.
-- Pokud si ale u matiky nevěříte, jste průměrní či podprůměrní a nechcete riskovat, tak doporučuji jít na angličtinu. Je to sice větší opruz, ale je to jednodušší a uděláte to.
+- U matiky máš výhodu, že děláš jen jednu zkoušku - didaktický test - takže žádnou ústní zkoušku a logicky ani sloh.
+- Úspěšnost u matiky je ale o dost nižší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
+- U matiky musíš didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela vysoká.
+- Pokud jsi dobrý v matematice (řekněme máš jedničky / dvojky), přípravuješ se ještě například na SCIO testy z matematiky, tak doporučuji spíše zkusit 1 / 2 testy z minulých let a pokud budeš mít slušný výsledek, tak se na angličtinu vykašlat a jít na matiku. Sice i když je angličtina jednoduchá, je to zbytečný stres o svaťáku navíc.
+- Pokud si ale u matiky nevěříš, jsi průměrný či podprůměrný a nechceš riskovat, tak doporučuji jít na angličtinu. Je to sice větší opruz, ale je to jednodušší a uděláš to.

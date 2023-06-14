@@ -1,4 +1,4 @@
-# MP
+# Maturitní Projekt
 
 ### Co to je Maturitní projekt?
 - Součástí maturit je taktéž tvorba maturitního projektu - jako na vysokých školách jsou diplomky a bakalářské práce, tak toto je jejich jednodušší forma (samozřejmě tohle je hodně nepřesné srovnání).

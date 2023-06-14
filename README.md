@@ -4,7 +4,7 @@
 - ### Materiály pro maturitu z HW, PS, WA, ČJ, AJ a MA.
 - ### Všeobecné informace ke zkouškám, jak probíhají a nějaké tipy na výběr MP a VŠ.
 
-<br><br>
+<br>
 
 ---
 ## BASIC FAQ 

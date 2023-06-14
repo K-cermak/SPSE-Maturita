@@ -52,7 +52,7 @@
 - Maturita se skládá ze 3 částí - **slohů, didaktických testů a ústních**.
 - **Sloh** můžete psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
 - **Didaktický test** je celkem ze 2 předmětů - češtiny a pak matiky / angličtiny. Tento test dělá centrálně Cermat (takže ho píšou všichni maturanti ve stejnou chvíli a je na všech školách stejný). Píše  se na začátku května po uzavření klasifikace.
-- **Ústní zkouška** je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajovu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu.
+- **Ústní zkouška** je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajobu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu (či nějak na přelomu).
 - Na to, abyste maturitu udělali, musítě splnit všechny zkoušky. Pokud například neuděláte sloh z ČJ, k ústním i didaktickým testům sice jdete, ale maturitu neuděláte a tedy sloh budete muset psát znovu v září. Pokud ale například nedáte ústní z ČJ a sloh ano, opakujete v září jen tu zkoušku, kterou jste neudělali (takže jen ústní, sloh už ne).
 - Pokud nedokončíš 4. ročník (máte z něčeho N nebo 5), tak k maturitě nejdete (až na slohy) a šanci máte jít až v září.
 

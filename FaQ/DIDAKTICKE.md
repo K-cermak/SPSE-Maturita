@@ -75,7 +75,7 @@
 <br>
 
 ### Mám jít povinně na matiku nebo na angličtinu?
-- Mezi povinnými předměty si můžete zvolit, zda chcete jít na matiku a nebo na angličtinu.
+- Mezi povinnými předměty si můžeš zvolit, zda chceš jít na matiku a nebo na angličtinu.
 - U matiky máš výhodu, že děláš jen jednu zkoušku - didaktický test - takže žádnou ústní zkoušku a logicky ani sloh.
 - Úspěšnost u matiky je ale o dost nižší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
 - U matiky musíš didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela vysoká.

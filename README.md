@@ -53,8 +53,8 @@
 - **Sloh** můžete psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
 - **Didaktický test** je celkem ze 2 předmětů - češtiny a pak matiky / angličtiny. Tento test dělá centrálně Cermat (takže ho píšou všichni maturanti ve stejnou chvíli a je na všech školách stejný). Píše  se na začátku května po uzavření klasifikace.
 - **Ústní zkouška** je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajobu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu (či nějak na přelomu).
-- Na to, abyste maturitu udělali, musítě splnit všechny zkoušky. Pokud například neuděláte sloh z ČJ, k ústním i didaktickým testům sice jdete, ale maturitu neuděláte a tedy sloh budete muset psát znovu v září. Pokud ale například nedáte ústní z ČJ a sloh ano, opakujete v září jen tu zkoušku, kterou jste neudělali (takže jen ústní, sloh už ne).
-- Pokud nedokončíš 4. ročník (máte z něčeho N nebo 5), tak k maturitě nejdete (až na slohy) a šanci máte jít až v září.
+- Na to, abys maturitu udělal, musíš splnit všechny zkoušky. Pokud například neuděláš sloh z ČJ, k ústním i didaktickým testům sice jdeš, ale maturitu neuděláš a tedy sloh budeš muset psát znovu v září. Pokud ale například nedáš ústní z ČJ a sloh ano, opakuješ v září jen tu zkoušku, kterou jsi neudělal (takže jen ústní, sloh už ne).
+- Pokud nedokončíš 4. ročník (máš z něčeho N nebo 5), tak k maturitě nejdeš (až na slohy) a šanci máš jít až v září.
 
 <br>
 
@@ -65,7 +65,7 @@
 <br>
 
 ### Mám jít povinně na matiku nebo na angličtinu?
-- Mezi povinnými předměty si můžete zvolit, zda chcete jít na matiku a nebo na angličtinu.
+- Mezi povinnými předměty si můžeš zvolit, zda chceš jít na matiku a nebo na angličtinu.
 - U matiky máš výhodu, že děláš jen jednu zkoušku - didaktický test - takže žádnou ústní zkoušku a logicky ani sloh.
 - Úspěšnost u matiky je ale o dost nižší než u angličtiny, angličtinu ve své podstatě udělá i úplný debil.
 - U matiky musíš didaktický test napsat minimálně na 33 %, což je poměrně málo, ale přesto je neúspěšnost docela vysoká.

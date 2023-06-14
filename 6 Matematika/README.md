@@ -21,7 +21,7 @@
 
 ### K čemu mi může být volitelná maturita z matematiky?
 - Některé vysoké školy tě buď můžou přijmout například za úspěšnou maturitu z matematiky, či můžeš dostat jednorázové stipendium. Je rozhodně fajn si toto včas zjistit a zhodnodnotit.
-- Můžeš jít například povinně na angličtinu a volitelně na matematiku a pokud matematika vyjde, jste přijati na vysokou školu a pokud ne, maturitu stále uděláte kvůli angličtině.
+- Můžeš jít například povinně na angličtinu a volitelně na matematiku a pokud matematika vyjde, jsi přijat na vysokou školu a pokud ne, maturitu stále uděláš kvůli angličtině.
 
 <br>
 

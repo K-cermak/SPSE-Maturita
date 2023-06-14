@@ -2,7 +2,7 @@
 
 ### Všeobecné informace o ústních zkouškách můžeš nalézt [zde](../FaQ/USTNI.md).
 
-> ⚠️⚠️ **Důležité upozornění pro ty, co mají SED**: Tyto otázky jsou dělané hlavně na požadavky úrovně znalostí u PRI. Některé věci můžou být dost nepřesné, protože celkově jsme ve třídě měli se sítěmi problém všichni. Je dost možné, že pokud máte SED, bude chtít daleko podrobnější informace než jsou v tomto dokumentu (já jsem si vytáhl například otázku na bezdrátové sítě a můžu objektivně říct, že zatímco jsem měl u PRI za 1, u SED bych byl rád za 4)...
+> ⚠️⚠️ **Důležité upozornění pro ty, co mají SED**: Tyto otázky jsou dělané hlavně na požadavky úrovně znalostí u PRI. Některé věci můžou být dost nepřesné, protože celkově jsme ve třídě měli se sítěmi problém všichni. Je dost možné, že pokud máš SED, bude chtít daleko podrobnější informace než jsou v tomto dokumentu (já jsem si vytáhl například otázku na bezdrátové sítě a můžu objektivně říct, že zatímco jsem měl u PRI za 1, u SED bych byl rád za 4)...
 
 > Zároveň menší výzva pro SED - pokud tohle náhodou čtete a máte s mými materiály problém, klidně udělejte svoje a já je sem milerád přidám :).
 

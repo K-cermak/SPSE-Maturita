@@ -37,4 +37,4 @@
 
 ### Je JEL v pohodě?
 - Řekl bych, že pokud jsi ho vyloženě nesral, tak na tebe bude fakt v pohodě. Ani jsem to osobně nečekal (já jsem si teda vytáhl sítě), ale na ostatní spolužáky byl poměrně mírný a fakt se snažil pomáhat.
-- Navíc, aby vám dal pětku, to byste to museli fakt fenomenálně posrat a neříct nic..
+- Navíc, aby ti dal pětku, to bys to musel fakt fenomenálně posrat a neříct nic..

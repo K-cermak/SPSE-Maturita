@@ -2,7 +2,7 @@
 
 ### Co to je Maturitní projekt?
 - Součástí maturit je taktéž tvorba maturitního projektu - jako na vysokých školách jsou diplomky a bakalářské práce, tak toto je jejich jednodušší forma (samozřejmě tohle je hodně nepřesné srovnání).
-- V září si zvolíte téma vaši práce - většinou se zpravidla jedná o zhotovení webu - e-shopu, plánovače či třeba rezervačního systému. Nejste ale rozhodně omezeni jen na kategorii webů, prakticky si můžete zvolit jakékoliv téma - například videohra, video, projekt s Arduinem, mobilní aplikace, zkrátka cokoliv, co má nějakou hodnotu a je to příměřeně složité. Můžete si vzít i projekt mimo obor - například logomanuál, elektrický zdroj a nebo třeba vlastní návrh mikrokontroléru ;).
+- V září si zvolíš téma tvé práce - většinou se zpravidla jedná o zhotovení webu - e-shopu, plánovače či třeba rezervačního systému. Nejsi ale rozhodně omezen jen na kategorii webů, prakticky si můžeš zvolit jakékoliv téma - například videohra, video, projekt s Arduinem, mobilní aplikace, zkrátka cokoliv, co má nějakou hodnotu a je to příměřeně složité. Můžeš si vzít i projekt mimo obor - například logomanuál, elektrický zdroj a nebo třeba vlastní návrh mikrokontroléru ;).
 
 <br>
 
@@ -95,7 +95,7 @@
 <br>
 
 ### Jsou někde k náhlednutí vzorové dokumentace?
-- Sice nějaké mám, ale nechci sdílet cizí materiály bez povolení. Svojí bych rád nasdílel, ale jsou tam nějaké dost citlivé data, takže se spíše zeptejte svého vyučujícího, zda vám nějakou nemůže poskytnout.
+- Sice nějaké mám, ale nechci sdílet cizí materiály bez povolení. Svojí bych rád nasdílel, ale jsou tam nějaké dost citlivé data, takže se spíše zeptej svého vyučujícího, zda ti nějakou nemůže poskytnout.
 - DUS má na i3 template pro dokumentaci ve Wordu, doporučuji se podle něho řídit.
 
 <br>

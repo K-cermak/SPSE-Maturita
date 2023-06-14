@@ -75,7 +75,7 @@
 
 ### V jaké místnosti probíhají zkoušky? Je nějaká odpočinková místnost?
 - Zkoušky probíhají většinou ve vaší třídní účebně, popřípadě v nějaké vedlejší, předem se to určitě dozvíte.
-- Každá třída má taktéž k dispozici vlastní odpočinkovou místnost, kam učitelé nechodí. Tam si můžete odpočinout, nechat věci, vidíte tam taky rozpis. Během dne taktéž dostanete dukátky, můžete si skočit do kantýny či do Penny..
+- Každá třída má taktéž k dispozici vlastní odpočinkovou místnost, kam učitelé nechodí. Tam si můžeš odpočinout, nechat věci, vidíš tam taky rozpis zkoušek. Během dne taktéž dostaneš dukátky, můžeš si skočit do kantýny či do Penny..
 
 <br>
 
@@ -87,21 +87,21 @@
 <br>
 
 ### Můžu mít na zkoušce pití?
-- Ano, a dle mého názoru je to velice vhodné. Nechte si třeba velkou láhev v odpočinkové místnosti a pak si noste menší láhev do zkušební místnosti. Mluvit budete opravdu dost, takže je dobré mít k dispozici pití a v případě problémů se napít.
+- Ano, a dle mého názoru je to velice vhodné. Nech si třeba velkou láhev v odpočinkové místnosti a pak si nos menší láhev do zkušební místnosti. Mluvit budeš opravdu dost, takže je dobré mít k dispozici pití a v případě problémů se napít.
 
 <br>
 
 ### Mám se učit všechny otázky?
-- Je lepší umět od každé otázky alespoň nějaké základy, než umět nějaké perfektně a nějaké vůbec - věřte, že takový přístup se vám šeredně vymstí.
+- Je lepší umět od každé otázky alespoň nějaké základy, než umět nějaké perfektně a nějaké vůbec - věř, že takový přístup se ti šeredně vymstí.
 
 <br>
 
 ## Kolik znalostí potřebuju na to, abych prolezl?
 - U všech předmětů na 4 stačí umět opravdu něco. Řekl bych, že je spíše důležité umět dobře základy, než umět nějaké speciality a pak zbytečně zmatkovat.
-- Například u HW je lepší umět vysvětlit pořádně rozdíly RISC a CISC a už neumět fáze pipelingu, než když se vám to bude plést a sice si vzpomenete na nějaké fáze pipelingu, ale bude vidět, že se neorientujete v rozdílech mezi RISC a CISC.
+- Například u HW je lepší umět vysvětlit pořádně rozdíly RISC a CISC a už neumět fáze pipelingu, než když se ti to bude plést a sice si vzpomeneš na nějaké fáze pipelingu, ale bude vidět, že se neorientuješ v rozdílech mezi RISC a CISC.
 
 <br>
 
 ## Jak si nějakou otázku nevytáhnout?
-- Samozřejmě tohle moc neovlivníte, ale já jsem si například pro vnitřní klid duše odpočítal žetonky a vzal jsi si takový v pořadí, který jsem nechtěl - takže když jsem nechtěl 15, vzal jsem si v pořadí 15. žetonek.
+- Samozřejmě tohle moc neovlivníš, ale já jsem si například pro vnitřní klid duše odpočítal žetonky a vzal jsi si takový v pořadí, který jsem nechtěl - takže když jsem nechtěl 15, vzal jsem si v pořadí 15. žetonek.
 - Samozřejmě je to ale úplně na random, takže moje taktika je vlastně úplně k ničemu.

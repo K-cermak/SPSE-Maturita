@@ -33,7 +33,7 @@
 - **Hemingway Ernest - Stařec a moře**
     - Je to nudná kravina, ale zase to má celkem přímočarý děj a dá se možná o tom dost kecat.
 - **Orwell George - Farma zvířat**
-    - Pokud se zajímáte o politiku / historii, bude to celkem dobré, navíc to má pěkně zpracovaný film, který +- souhlasí s knihou.
+    - Pokud se zajímáš p politiku / historii, bude to celkem dobré, navíc to má pěkně zpracovaný film, který +- souhlasí s knihou.
 - **Bradbury Ray - 451 stupňů Fahrenheita**
     - Sice chápu co chtěl autor říct, ale film se mi až tolik nelíbil, ale vydržet se to dá. Knihu jsem sice nečetl, ale řekl bych, že oproti filmu tam nejsou příliš velké rozdíly. 
 - **Kafka Franz - Proměna**
@@ -45,7 +45,7 @@
 - **Hrabal Bohumil - Obsluhoval jsem anglického krále**
     - Film jsem si hodně užil, kniha je tedy o dost jiná a nevidět film jako první, nevím jak bych ji pochopil, ale jinak docela šla.
 - **Viewegh Michal - Báječná léta pod psa**
-    - Film je topovka, kniha se sice mírně liší, ale když seženete audioknihu (je po kouskách na Ulož.tu, ale zhruba třetina chybí, tak je fakt dobrá i kniha).
+    - Film je topovka, kniha se sice mírně liší, ale když seženeš audioknihu (je po kouskách na Ulož.tu, ale zhruba třetina chybí, tak je fakt dobrá i kniha).
 
 <br>
 

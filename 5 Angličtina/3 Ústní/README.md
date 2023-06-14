@@ -44,7 +44,7 @@
 
 ### O kolik jsou reálie těžší než jiná témata?
 - Reálie jsou sice oproti takovým těm volným tématům (rodina, cestování, koníčky..) dost na nic, ale zase vysloveně těžké nejsou.
-- Problém je, že když se učíte na jiné předměty (hlavně odborné), se pak donutit na ty reálie podívat.
+- Problém je, že když se učíš na jiné předměty (hlavně odborné), se pak donutit na ty reálie podívat.
 - Určitě je vhodné se na to alespoň trochu kouknout, ale zase, pochybuji, že se vás bude někdo ptát na všechny panovníky z historie Pardubic (oni ty učitelé vás pravděpodbně chtějí nechat pustit a ne totálně udusit).. 
 
 <br>

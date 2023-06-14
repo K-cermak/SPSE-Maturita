@@ -46,7 +46,7 @@
 - Problém slohu je ten, že připravit se na něj jde celkem blbě.
 - Doporučuji se podívat na internet na témata z jiných škol či co zadával Cermat (ještě když to organizoval) a nanečisto si zkusit něco napsat.
 - Není příliš dobrý se učit na všechny styly - já jsem například hlavně natrénoval dopis a článek, nakonec jsem psal článek (u dopisu jsem se bál malého počtu slov kvůli špatnému tématu). Spíše bych tedy doporučoval si zvolit styly, které se ti píšou lépe než ostatní a pořádně se naučit jejich pravidla a to, jak mají vypadat a trénovat je.
-- U angličtiny je za mě důležitá spíše rychlost (přeci hodina a 10 minut na 2 témata není tolik). Je taky dobré se podívat na pravidla jak se počítají slova (nikdo vám asi nestrhne body za to, když budete mít o pět slov víc, ale 20 slov navíc už mohou být zbytečně ztracené body). 
+- U angličtiny je za mě důležitá spíše rychlost (přeci hodina a 10 minut na 2 témata není tolik). Je taky dobré se podívat na pravidla jak se počítají slova (nikdo ti asi nestrhne body za to, když budeš mít o pět slov víc, ale 20 slov navíc už mohou být zbytečně ztracené body).
 
 <br>
 

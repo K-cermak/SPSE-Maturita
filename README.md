@@ -33,7 +33,7 @@
 
 ### Jsou otázky vyřešené správně? Co když najdu chybu?
 - Řekl bych, že otázky jsou vyřešené velmi kvalitně. Bral jsem dost informací z vyřešených materiálů z minulých let, materiály procházelo více lidí a prošly několika revizemi.
-- Přesto, pokud najdeš nějakou chybu, neváhejte mně napsat na info@k-cermak.com a já rád chybu opravím.
+- Přesto, pokud najdeš nějakou chybu, neváhej mně napsat na info@k-cermak.com a já rád chybu opravím.
 
 <br>
 
@@ -50,7 +50,7 @@
 
 ### Jak vlastně maturita funguje? Co to je sloh / didaktický test / ústní?
 - Maturita se skládá ze 3 částí - **slohů, didaktických testů a ústních**.
-- **Sloh** můžete psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
+- **Sloh** můžeš psát ze 2 předmětů - češtiny a angličtiny - z češtiny je povinný pro všechny, z angličtiny jen pro ty, co nejdou povinně na matiku a vybrali si angličtinu (viz dále co si vybrat). Píšou se přibližně v půlce dubna.
 - **Didaktický test** je celkem ze 2 předmětů - češtiny a pak matiky / angličtiny. Tento test dělá centrálně Cermat (takže ho píšou všichni maturanti ve stejnou chvíli a je na všech školách stejný). Píše  se na začátku května po uzavření klasifikace.
 - **Ústní zkouška** je pak nejtěžší část maturit - je celkem ze 4 předmětů - ČJ, WA, HW / PS a případně AJ. Dále obsahuje obhajobu maturitní práce. Ústní zkoušky probíhají většinou poslední dva týdny v květnu (či nějak na přelomu).
 - Na to, abys maturitu udělal, musíš splnit všechny zkoušky. Pokud například neuděláš sloh z ČJ, k ústním i didaktickým testům sice jdeš, ale maturitu neuděláš a tedy sloh budeš muset psát znovu v září. Pokud ale například nedáš ústní z ČJ a sloh ano, opakuješ v září jen tu zkoušku, kterou jsi neudělal (takže jen ústní, sloh už ne).

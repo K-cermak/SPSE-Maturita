@@ -4,8 +4,6 @@
 
 > ⚠️⚠️ **Kde jsou rozbory?**: Všechny rozbory jsem zakoupil na [této](https://www.snadnamaturita.cz/) stránce. Líbilo se mi, že všechny rozbory jsou udělané na jednu stránku A4 ve stejném stylu. I když bych rád všechny koupené materiály sem nahrál, z důvodu případného porušení autorských prav to dělat nebudu.
 
-<br>
-
 > Jeden rozbor většinou stojí 15 Kč. Pokud se domluvíš se spolužáky, a nějak to mezi sebe rozpočítáte, věřím, že v menší skupince se dostanete na částku pod 100 Kč na osobu (a za to ani nedáš s BAJ jeden panák..),
 
 <br>

@@ -3,7 +3,6 @@
 ### Všeobecné informace o ústních můžeš nalézt [zde](../../FaQ/USTNI.md).
 
 > ⚠️⚠️ **Problém s pořadím materiálů**: Veškeré materiály ve složce [`Materiály`](Materiály/) jsme dostávali během roku od PAC. Nevím zda došlo k záměně ze strany PAC, školy nebo někoho jiného, ale papír s tématy od PAC je jiný než ten oficiální školní (sice jsou témata stejná, ale jsou jinak seřazená a jsou tam některé jiné odlišnosti).
-<br>
 
 > V materiálech už mám ale naskenované dokumenty seřazené podle seznamu od PAC, takže případně si je přeházej ty. Správný seznam a ten, podle kterého dostaneš otázku u maturity je ale ten v souboru [`AJ - přehled témat.pdf`](AJ%20-%20přehled%20témat.pdf).
 

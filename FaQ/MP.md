@@ -147,7 +147,7 @@
 - Na AMAVETu jsem byl a ta soutěž byla fakt strašná, takže tady uvedu pár důvodů, proč tam nechodit. Jedná se samozřejmě o můj osobní názor a mé osobní postřehy.
 - Nejprve začínáš v okresním kole, pak jdeš do krajského a pak do celostátáního.
 - Já jsem byl v okresním, sice jsem postoupil, ale pokračovat jsem odmítl.
-- Jednak co je úplný bizár, ta soutěž probíhá jen ve 2 (!) okresích v celé ČR, takže to není žádná celostátní soutěž. Jeden okres jsou Pardubice a druhý Ústí nad Orlicí. Z těchto okresů se vyberou některé projekty (tipoval bych cca něco přes polovinu) a ty postupí do krajského kola pořádaného v Pardubicích. Následně z krajského kola se opět vyberou nějací lidi a jdou do celostátního, které se pořádá v Praze. V CELOSTÁTNÍM KOLE SE ALE NEPŘIPOJUJE ŽÁDNÝ DALŠÍ KRAJ. KDYŽ PROSTĚ Z KRAJSKÉHO KOLA V PARDUBICÍCH POSTOUPÍ 30 LIDÍ, TAK V CELOSTÁTNÍM JICH JE ZASE 30.
+- Jednak co je úplný bizár, ta soutěž probíhá jen ve 2 (!) okresech v celé ČR, takže to není žádná celostátní soutěž. Jeden okres jsou Pardubice a druhý Ústí nad Orlicí. Z těchto okresů se vyberou některé projekty (tipoval bych cca něco přes polovinu) a ty postupí do krajského kola pořádaného v Pardubicích. Následně z krajského kola se opět vyberou nějací lidi a jdou do celostátního, které se pořádá v Praze. V CELOSTÁTNÍM KOLE SE ALE NEPŘIPOJUJE ŽÁDNÝ DALŠÍ KRAJ. KDYŽ PROSTĚ Z KRAJSKÉHO KOLA V PARDUBICÍCH POSTOUPÍ 30 LIDÍ, TAK V CELOSTÁTNÍM JICH JE ZASE 30.
     - To je jakobys v závodech v běhu vybral 30 nejlepších lidí a ty znovu běhali, abys určil pořadí a vítěze. PROSTĚ PROČ?
 
 - Navíc si hodnocen jen postoupil X nepostoupil, pořadí je až u celostátního kola..

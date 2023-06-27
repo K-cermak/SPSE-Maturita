@@ -61,7 +61,7 @@
 
 ### Udělám to? Fakt literaturu nemám rád a bojím se.
 - Taky jsem se bál a překvapivě učitelky byly dost nápomocné a opravdu se snažily dost pomoct a doplňovaly. Je pravda, že jsem měl štěstí v knížce (Bílá nemoc od Čapka), kterou jsem četl a celkem se o tom dalo mluvit. Jinak já jsem češtinářku poslední 2 roky ignoroval, naposledy jsem dával pozor na začátku prváku.
-- Z češtiny nakonec od nás odmaturoval každý (a to včetně těch, co nepřečetly nic), z druhé třídy to něudělal jeden (ten měl Švejka od Haška a nevysvětlil začátek díla a na otázku, kdy byla první světová válka taky neodpověděl)..
+- Z češtiny nakonec od nás odmaturoval každý (a to včetně těch, co nepřečetli nic), z druhé třídy to něudělal jeden (ten měl Švejka od Haška a nevysvětlil začátek díla a na otázku, kdy byla první světová válka taky neodpověděl)..
 
 <br>
 

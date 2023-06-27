@@ -33,7 +33,7 @@
     - Najdeš tam hromadu textů, které musíš pochopit. Pak něco z literatury (to je ale tuším do 15 % obsahu, takže pokud literatura není tvůj šálek kávy, fakt se bát nemusíš), hodí se umět nějaké základní věci (pády, slovní druhy apod.).
 - **Angličtina:**
     - 40 minut je poslech, všechno je pokaždé pak zopakováno (takže to slyšíš 2x). Ta angličtina je fakt strašně primitivní, reálně to udělá i úplný retard.
-    - 70 minut je pak jazyková část, kde jsou především delší články ze kterých většinou hledáš nějaké informace. Nakonec je jedno cvičení z gramatiky, kdy vždy ze tří možností vybereš vhodné slovo pasující do textu (takže i když gramatiku fakt neumíš, ale máš angličtinu lehce naposlouchanou, nějak to uděláš, navíc ta gramatiky je jen 15 bodů, důležitější je chápat text).
+    - 70 minut je pak jazyková část, kde jsou především delší články ze kterých většinou hledáš nějaké informace. Nakonec je jedno cvičení z gramatiky, kdy vždy ze tří možností vybereš vhodné slovo pasující do textu (takže i když gramatiku fakt neumíš, ale máš angličtinu lehce naposlouchanou, nějak to uděláš, navíc ta gramatika je jen 15 bodů, důležitější je chápat text).
     - Menší tip: pokud miluješ školní gramofony (rozuměj rádia), je lepší jít do učebny o něco dříve a sednout si do některé z prvních lavic, ať líp slyšíš.
 - **Matematika:**
     - Pokud matiku ovládáš, napsat to nebude problém. Výhoda je, že tam je zastoupeno mnoho témat a i pokud něco neovládáš, tak furt máš velmi dobrou šanci na dobrou známku.

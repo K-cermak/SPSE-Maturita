@@ -5,7 +5,7 @@
 ### Jak probíhá výběr otázky a příprava?
 - Nejprve vstup do učebny. Neťukej, jen se posaď na některou z krajních židlí (jsou vedle dveří) a počkej než tě učitel (nejspíše třídní) vyzve (většinou na tebe pokývne), ať si jdeš vylosovat otázku. Vhodné je do třídy dorazit 2-3 minuty před začátkem přípravy.
 - Pro otázku jdi vždy zásadně předem (to znamená kolem tabule). Nechoď za učitelské stoly, učitelé to nemají rádi (ani když jsi první v daný den a je tam ještě volno).
-- Po vylosování žetonu dostaneš papír se všemi otázkami. Nyní máš 15 minut na přípravu. Běž k volné polovině tabule a nejprve nadepiš číslo otázky, jméno otázky (například Bezdrátové sítě) a svoje jméno.
+- Po vylosování žetonu dostaneš papír se všemi otázkami. Nyní máš 15 minut na přípravu. Běž k volné polovině tabule a nejprve nadepiš číslo otázky, jméno otázky (například Mobilní HW) a svoje jméno.
 - K dispozici máš polovinu hlavní tabule a celé křídlo (to znamená z obou stran).
     - Pokud má otázka hodně schémat (například paměti), nakresli jich co nejvíc, co si pamatuješ. Pak je dobré udělat si nějaký seznam co vlastně k tomu patří (pojmy, zkratky a tak). Při zkoušce je pak lepší se od těch podbodů odchytit a o tom pak mluvit, než si na něco vzpomínat.
     - Pokud otázka nemá schémata či prostě nic nevíš, je lepší popsat tabuli alespoň něčím. Sice to nebude tak skvělé jako když budeš mluvit jen ústně, ale lepší popsaná tabule než prázdná - hlavně pro učitele, kteří tomu nerozumí, uvidí, že jsi popsal celou tabuli a budeš mít větší šanci udělat to alespoň na tu 4.

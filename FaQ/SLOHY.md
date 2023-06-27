@@ -9,7 +9,7 @@
 ### Kdo sloh zadává a hodnotí?
 - I když dříve byly slohy zadávány centrálně Cermatem, již pár let tomu už není a zadání vymýšlí přímo učitelé na škole. Škola si pak určuje vlastní termín, kdy slohy zadá (třeba na nějakých školách psali slohy i o týden dřív než jsme psali my).
 - Slohy se hodnotí i přímo na škole - primárně sloh opravuje tvůj učitel na češtinu, pokud by ti pak sloh vycházel na 5, sejde se komise a sloh posoudí více učitelů.
-- To, že sloh je zadáván školou má několik výhod - zejména učitelé nezvolí styly, které jsou příliš složitá (například líčení či fejeton) a které se u nás neučí (naopak na nějakých jazykových školách jsou tyto styly velmi běžné). Taktéž by se dalo říct, že i obtížnost témat bude o něco nižší (asi učitelé nedají jedno z témat popis Shakespearova života).
+- To, že sloh je zadáván školou má několik výhod - zejména učitelé nezvolí styly, které jsou příliš složité (například líčení či fejeton) a které se u nás neučí (naopak na nějakých jazykových školách jsou tyto styly velmi běžné). Taktéž by se dalo říct, že i obtížnost témat bude o něco nižší (asi učitelé nedají jako jedno z témat popis Shakespearova života).
 
 <br>
 
@@ -59,7 +59,7 @@
 
 ### Co když nedodržím počet slov?
 - U češtiny je hranice pro hodnocení 200 slov (takže 199 slov je automaticky za 5). Mezi 200-250 slovy se významně strhávají body, ale stále se to dá udělat.
-- U angličtiny je důležité se vejít do rozsahu. Pokud má člověk méně slov, strhávají se body i u jiných kategorií (například za gramatiku - málo slov = není jak hodnotit gramatika..). Pokud napíšeš více slov, tolik bodů se sice nestrhne, ale stejně tam penalizace může být.
+- U angličtiny je důležité se vejít do rozsahu. Pokud má člověk méně slov, strhávají se body i u jiných kategorií (například za gramatiku - málo slov = není jak hodnotit gramatiku..). Pokud napíšeš více slov, tolik bodů se sice nestrhne, ale stejně tam penalizace může být.
 
 <br>
 

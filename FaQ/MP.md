@@ -115,7 +115,8 @@
 - Pokud ale máš znalosti trochu z Linuxu či třeba umíš programovat serverless aplikace, zkus popřemýšlet, jestli by to nebylo lepší nasadit na vlastním serveru. Zejména se to hodí, pokud například aplikaci píšeš v Laravelu (je tam spoustu dependecies a potřebuješ přesnou verzi PHP) či třeba potřebuješ používat více subdomén. Samozřejmě je to zbytečné pro jednoduché projekty, ale pro složitější weby to může být snadnější než kvůli všemu psát KOU, ale zase budeš potřebovat svoji doménu.
     - Azure pod školním účtem poskytuje 100 $ kredit na 12 měsíců a máš k dispozici jeden Linux Virtual Machine s 1 GB RAM.
     - Digital Ocean při přihlášení přes GitHub se studentským balíčkem poskytuje kredit 200 $ na 12 měsíců.
-    - Je ale fakt důležité si dát pozor na to, abys měl projekt pořádně zálohované (dávej si třeba pozor na Oracle, který jen tak for fun banuje účty - taky jsem ztratil část projektu u nich, naštěstí to bylo na začátku). Je taky důležité se fakt domluvit s vedoucím, proč to vlastně chceš dělat. Například BAT s tím ale neměl nejmenší problém.
+    - Je ale fakt důležité si dát pozor na to, abys měl projekt pořádně zálohovaný (dávej si třeba pozor na Oracle, který jen tak for fun banuje účty - taky jsem ztratil část projektu u nich, naštěstí to bylo na začátku).
+- Je taky důležité se fakt domluvit s vedoucím, proč to vlastně chceš dělat. Například BAT s tím ale neměl nejmenší problém, ale nevím jak ostatní učitelé.
 
 <br>
 
@@ -147,7 +148,7 @@
 - Nejprve začínáš v okresním kole, pak jdeš do krajského a pak do celostátáního.
 - Já jsem byl v okresním, sice jsem postoupil, ale pokračovat jsem odmítl.
 - Jednak co je úplný bizár, ta soutěž probíhá jen ve 2 (!) okresích v celé ČR, takže to není žádná celostátní soutěž. Jeden okres jsou Pardubice a druhý Ústí nad Orlicí. Z těchto okresů se vyberou některé projekty (tipoval bych cca něco přes polovinu) a ty postupí do krajského kola pořádaného v Pardubicích. Následně z krajského kola se opět vyberou nějací lidi a jdou do celostátního, které se pořádá v Praze. V CELOSTÁTNÍM KOLE SE ALE NEPŘIPOJUJE ŽÁDNÝ DALŠÍ KRAJ. KDYŽ PROSTĚ Z KRAJSKÉHO KOLA V PARDUBICÍCH POSTOUPÍ 30 LIDÍ, TAK V CELOSTÁTNÍM JICH JE ZASE 30.
-    - To je jakobys v závodech ve sprintech vybral 30 nejlepších lidí a ty znovu běhali, abys určil pořadí a vítěze. PROSTĚ PROČ?
+    - To je jakobys v závodech v běhu vybral 30 nejlepších lidí a ty znovu běhali, abys určil pořadí a vítěze. PROSTĚ PROČ?
 
 - Navíc si hodnocen jen postoupil X nepostoupil, pořadí je až u celostátního kola..
 
@@ -158,7 +159,7 @@
 
 <br>
 
-- Na prezentaci svého výrobku si musíš udělat poster - je to plakát tuším 120 x 100 cm (je to strašně debilní rozměr, zbytečně vysoký) a máš na něm představit svůj výrobek. Pokud máš štěstí, DUS ti to vytiskne na ploteru, pokud ne, tak v knihovně budeš tisknout asi 16 A3, takže si užij lepení na karton (naštěstí ten tisk alespoň platí škola).
+- Na prezentaci svého výrobku si musíš udělat poster - je to plakát tuším 120 x 100 cm (je to strašně debilní rozměr, zbytečně vysoký) a máš na něm představit svůj výrobek. Pokud máš štěstí, DUS ti to vytiskne na ploteru, pokud ne, tak v knihovně budeš tisknout asi 16x A3, takže si užij lepení na karton (naštěstí ten tisk alespoň platí škola).
 - Když si konečně na soutěži a poster ti nějak drží, nepočítej, že máš nějak hodně místa. Je to všechno namačkané na sobě, většinou jsi rád, že tam sotva dáš třeba notebook a ten poster. Najít zásuvku je taky sranda. Takže odlišit se od ostatních nápaditým provedením svého "stánku" taky nejde..
 - Taky máš připravené tzv. abstrakty. To je takový papír, kde shrnuješ svůj projekt. Za celou dobu si nikdo nevzal ode mě ani jeden.
 
@@ -175,12 +176,12 @@
     - Jeden spolužák měl udělanou funkční VR hru. Měl tam i HTC Vive, takže sis hru mohl vyzkoušet. NEPOSTOUPIL.
     - Spolužák měl celkem funkční vlastní blogovací CMS. NEPOSTOUPIL.
     - Jeden student tam měl udělanou 3D hru (nějaké vydával i na Steamu). NEPOSTOUPIL.
-- Takto bych samozřejmě mohl pokračovat. Pokud člověk měl ale HW (fyzický) projekt (například jeden student tam měl projekt, kdy za pomocí vrtačky dokázal kódovat a zpětně přečíst data z perníku. Na jeden perník mohl uložit až 20 Bajtů), tak postoupit problém takový není.
+- Takto bych samozřejmě mohl pokračovat. Pokud člověk měl ale HW (fyzický) projekt (například jeden student tam měl projekt, kdy za pomocí vrtačky dokázal kódovat a zpětně přečíst data z perníku - na jeden perník mohl uložit až 20 Bajtů), tak postoupit problém takový není.
 
 <br>
 
 - Celkově bych řekl, že tam chybí spousta lidí, kteří jsou schopni objektivně hodnotit a mít přehled do SW projektů. Pokud ten SW projekt nebyl přímo představitelný (například jako online poloha vozů MHD), tak šance na postup byla mizivá, i když projekt byl velmi slušný.
-- Soutěž se navíc nedělí do více kategorií. Fakt by mě zajímalo, jak dokáží poznat, jak mezi projektem od někoho z chemičárny o míchání nějakých látek (ten projekt jsem četl a nepochopil jsem z něho nic, protože zkrátka na to nemám kompetenci) dokážou říct, jak je lepší než jiný projekt například z oblasti elektroniky..
+- Soutěž se navíc nedělí do více kategorií. Fakt by mě zajímalo, jak dokáží poznat, jak mezi projektem od někoho z chemičárny o míchání nějakých látek (ten projekt jsem četl a nepochopil jsem z něho nic, protože zkrátka na to nemám znalosti) dokážou říct, jak je lepší než jiný projekt například z oblasti elektroniky..
 
 <br>
 

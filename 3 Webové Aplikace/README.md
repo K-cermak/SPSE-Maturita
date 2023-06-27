@@ -7,7 +7,7 @@
 - Pro otázku jdi vždy zásadně předem (to znamená kolem tabule). Nechoď za učitelské stoly, učitelé to nemají rádi (ani když jsi první v daný den a je tam ještě volno).
 - Po vylosování žetonu tě učitel posadí k volnému počítači (ty jsou u oken). Na těchto počítačich jednak běží nějaké scuffed scripty (asi hlídají co kdo dělá, takže ne, Copilota tam fakt nenastavíš..). Škola má také udělanou takovou speciální (rozuměj ještě víc scuffed) aplikaci, kde jsou jednotlivé okýnka pro každou otázku. U okýnka (otázky) je k dispozici jednak PDF zadání a případně odkaz přímo na stránku, ve které máš pracovat (to jsou vlastně všechny až na SQL otázky).
 - Tato školní aplikace běží na localhostu a jednotlivé otázky jsou vlastně udělané v podsložkách. Ve VS Code je pak otevřena složka s localhostem a v jednotlivých podsložkách jsou pak umístěny základní soubory pro danou otázku.
-    - Pro příklad: Máš otázku na editaci dat, ve VS Code je otevřena složka localhostu, v okýnku 15 na hlavním webu klikneš na PDF zadání a dále otevřeš samotnou podstránku. Ve VS Code si otevřeš danou podsložku (v tomto případě 15) a v ni už bude například připravený PDO connection a HTML stránky.
+    - Pro příklad: Máš otázku na editaci dat, ve VS Code je otevřena složka localhostu, v okýnku 15 na hlavním webu klikneš na PDF zadání a dále otevřeš samotnou podstránku. Ve VS Code si otevřeš danou podsložku (v tomto případě 15) a v ni už bude například připravený PDO connection a HTML stránka.
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ### Musím používat PDO a phpMyAdmin? Co když nemám rád VS Code?
 - Údajně všechny databázové připojení jsou napsané jak pro PDO, tak pro mysqli. Je ale lepší se naučit spíš PDO, protože ti učitelé spíše v případě problémů pak poradí s ním, než s mysqli.
-- Z hlavní stránky je dostupný jak phpMyAdmin, tak i Adminer (pokud bys ho měl jakýkoliv důvod použít místo phpMyAdmin...).
+- Z hlavní stránky je dostupný jak phpMyAdmin, tak i Adminer (pokud bys ho měl jakýkoliv důvod použít místo phpMyAdminu...).
 - Jestli můžeš použít jiné IDE než VS Code netuším, ale spíše pochybuji. Zase nepíšeš tady celý projekt, ale pár řádku, takže to snad přežiješ.. 
 
 <br>

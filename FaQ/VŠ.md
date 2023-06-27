@@ -22,7 +22,7 @@
 <br>
 
 ### Kdy mám řešit přihlášky?
-- Nejprve bych doporučil si vypsat všechny školy, kam máš zájem jít. Je důležité si přesně poznamenat termín, kdy odeslat přihlášku a kdy jsou případně přijímačky (popřípadě kde třeba berou na SCIO apod.). Některé to mívají velmi brzo (například MUNU už na konci února).
+- Nejprve bych doporučil si vypsat všechny školy, kam máš zájem jít. Je důležité si přesně poznamenat termín, kdy odeslat přihlášku a kdy jsou případně přijímačky (popřípadě kde třeba berou na SCIO apod.). Některé to mívají velmi brzo (například MUNI už na konci února).
 - Není nejmoudřejší hned všude odeslat přihlášky. Za 1 přihlášku platíš mezi 500 - 800 Kč, takže hodit si přihlášky hned na 8 vysokých se může silně prodražit. Já jsem například byl už přijmutý na FI MUNI (kam jsem chtěl více), takže jsem si nedával přihlášku na UHK, kam šlo přihlášku poslat později než na MUNI a ušetřil jsem.
 
 <br>
@@ -33,7 +33,7 @@
 <br>
 
 - **FIT ČVUT v Praze** - prý to tam je slušný masakr, ale všeobecně tam mají nejnovější technologie ze všech škol.
-- **FEL ČVUT v Praze** - sice elektro, ale dá se tam dostat na dobrý průměr z matiky, takže taková záchrana. Navíc tam jsou i nějaké programátorské programy.
+- **FEL ČVUT v Praze** - sice elektro, ale dá se tam dostat na dobrý průměr z matiky, takže taková záchrana. Navíc tam jsou i nějaké programátorské programy. Ale dle slov JEL je to taky masakr.
 - **FIT VUT v Brně** - taky masakr, ale výhoda, pokud chceš drill a nerad si sestavuješ předměty a chceš jet podle seznamu.
 - **FI MUNI v Brně** - více teoretické, ale studium se dá nastavit hodně dle preferencí (takže záleží na tobě), ale jinak to tam bude asi taky masakr (tam jdu btw.). Jinak asi největší masakr na přijímačky, od nás se tam na jejich přijímačky nedostal nikdo. Prý mají hodně dobrý informační systém. 
 - **UHK v Hradci** - dost lidí vzali bez přijímaček, všeobecně to na mě působí celkem pohodově pokud si chceš prohloubit znalosti ze SPŠE, ale asi tě to tolik "nenakopne" jako třeba předchozí školy, ale samozřejmě záleží na tobě.

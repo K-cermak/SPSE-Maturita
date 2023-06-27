@@ -16,7 +16,7 @@
 <br>
 
 - Ukončení pak probíhá po oznámení posledních výsledků (ve čtvrtek / v pátek). Zase celá třída nastoupí, třídní řekne nějaký proslov, pak někdo z vedení a nakonec předsedkyně. Pokud máte normálního třídního předsedu, je dobré, aby řekl i nějaký proslov on.
-- Nakonec je opět vhodné dát všem učitelkám kytku, učitelům možná nějakou flašku (záleží jaký máte budget, Božkov bych spíš nedával) a předsedovi třeba nějaký perník či něco s motivem Pardubic. Pokud je před předseda z Pardubic, pak postačí třeba čokoláda, dárkové balení oříšků či něco takového.
+- Nakonec je opět vhodné dát všem učitelkám kytku, učitelům možná nějakou flašku (záleží jaký máte budget, Božkov bych spíš nedával) a předsedovi třeba nějaký perník či něco s motivem Pardubic. Pokud je předseda z Pardubic, pak postačí třeba čokoláda, dárkové balení oříšků či něco takového.
 
 <br>
 
@@ -49,13 +49,13 @@
 
 <br>
 
-## Kolik časů je u ústních na přípravu, jak dlouho trvá ústní zkošuak?
+### Kolik časů je u ústních na přípravu, jak dlouho trvá ústní zkošuak?
 - Standardně 15 minut u PS / HW, 20 minut u AJ a ČJ a 30 minut u WA (tam ale musíš udělat praktickou část).
 - Zkouška pak probíhá nejvíce 15 minut.
 
 <br>
 
-## Můžou mě pustit ze zkoušky dřív?
+### Můžou mě pustit ze zkoušky dřív?
 - U HW / PS bych s tím nepočítal.
 - U AJ / ČJ maximálně o pár minut.
 - U WA pokud máš jednoduchou otázku a nemají se tě na co ptát, tak mě například pustili po 5 minutách.
@@ -96,12 +96,12 @@
 
 <br>
 
-## Kolik znalostí potřebuju na to, abych prolezl?
+### Kolik znalostí potřebuju na to, abych prolezl?
 - U všech předmětů na 4 stačí umět opravdu něco. Řekl bych, že je spíše důležité umět dobře základy, než umět nějaké speciality a pak zbytečně zmatkovat.
 - Například u HW je lepší umět vysvětlit pořádně rozdíly RISC a CISC a už neumět fáze pipelingu, než když se ti to bude plést a sice si vzpomeneš na nějaké fáze pipelingu, ale bude vidět, že se neorientuješ v rozdílech mezi RISC a CISC.
 
 <br>
 
-## Jak si nějakou otázku nevytáhnout?
+### Jak si nějakou otázku nevytáhnout?
 - Samozřejmě tohle moc neovlivníš, ale já jsem si například pro vnitřní klid duše odpočítal žetonky a vzal jsi si takový v pořadí, který jsem nechtěl - takže když jsem nechtěl 15, vzal jsem si v pořadí 15. žetonek.
 - Samozřejmě je to ale úplně na random, takže moje taktika je vlastně úplně k ničemu.
